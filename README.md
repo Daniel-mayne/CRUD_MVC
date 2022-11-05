@@ -1,3 +1,6 @@
+Projeto Baseado em aulas da B7WEb
+Recrio o projeto e faço as adaptações que me despertam curiosidade no processo de construção
+
 ## Instalação
 Você pode clonar este repositório OU baixar o .zip
 
