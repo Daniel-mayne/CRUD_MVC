@@ -10,6 +10,6 @@
 <body>
 
 <header>
-    <h1>Sistema para anotação de notas de alunos</h1>
+    <h1>Sistema para Cadastro de pessoas/h1>
     <hr>
 </header>
